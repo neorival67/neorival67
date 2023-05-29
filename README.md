@@ -1,7 +1,7 @@
 # 😎 hello My name Is Muhammad Daffa Rabbani ^_^
 
 # 💫 About Me:
-🌱 I’m currently learning Javascript <br>💬 Ask me anything about Cloud Computing and Back-End Programming<br>⚡ Hobbyist programmer, Jogging, Debugging
+🌱 I’m currently learning Javascript <br>💬 Ask me anything about Cloud Computing and Back-End Programming<br>⚡ Hobbyist programming, Jogging, Debugging, reading non-fiction books
 
 
 ## 🌐 Socials:
