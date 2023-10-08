@@ -13,8 +13,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 🎖 my Badges :
-[![CD Foundation Ambassador 2023](https://images.credly.com/size/340x340/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png)](https://www.credly.com/badges/d472ef30-3136-44d1-98a6-8868f273adc0/public_url "Google IT Support")
-
+[![IT Support](https://images.credly.com/size/340x340/images/b2db4424-989e-4df9-ad19-1539d2743d74/image.png)](https://www.credly.com/badges/d472ef30-3136-44d1-98a6-8868f273adc0/public_url "Google IT Support")
+[![CD Foundation Ambassador 2023](https://images.credly.com/size/110x110/images/7a1379a4-3d3b-4d6b-8622-33f6824cb821/image.png)](http://www.credly.com/badges/4c1544dc-271b-404e-974a-f991320ab9d8 "CD Foundation Ambassador 2023")
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neorival67)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neorival67&theme=dark)<br/>
