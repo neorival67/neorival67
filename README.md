@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 🎖 my Badges :
-<img src="https://www.credly.com/badges/d472ef30-3136-44d1-98a6-8868f273adc0/public_url" />
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d472ef30-3136-44d1-98a6-8868f273adc0" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 # 📊 GitHub Stats:
