@@ -13,7 +13,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 🎖 my Badges :
-!\[IT Support Google\](https://www.credly.com/badges/d472ef30-3136-44d1-98a6-8868f273adc0/public_url)
+[![Google IT Support](https://imagetolink.com/ib/lCYvg6H1rM)](https://www.credly.com/badges/d472ef30-3136-44d1-98a6-8868f273adc0/public_url)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neorival67)<br/>
