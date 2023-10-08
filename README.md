@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 🎖 my Badges :
-[![Google IT Support](https://www.credly.com/badges/d472ef30-3136-44d1-98a6-8868f273adc0/public_url)]
+<img src="https://www.credly.com/badges/d472ef30-3136-44d1-98a6-8868f273adc0/public_url" />
 
 
 # 📊 GitHub Stats:
