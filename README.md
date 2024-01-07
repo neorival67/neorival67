@@ -17,6 +17,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neorival67)<br/>
+
+# MY DEVCARD :
+<a href="https://app.daily.dev/neorival67"><img src="https://api.daily.dev/devcards/a898470f6c704f24bc0b964849a4d6a5.png?r=r9i" width="400" alt="Muhammad Daffa Rabbani's Dev Card"/></a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=neorival67&theme=dark)<br/>
 
 
