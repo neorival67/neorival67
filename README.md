@@ -15,7 +15,7 @@
 
 # 📊 GitHub Stats:
 
-![Andya's Stat](https://github-readme-stats.vercel.app/api?username=naufalandya\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Andya's Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=neorival67&layout=compact&hide=php,html,ejs,c#\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 
