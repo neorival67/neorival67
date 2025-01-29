@@ -15,9 +15,9 @@
 
 # 📊 GitHub Stats:
 
-![Andya's Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=neorival67&layout=compact&hide=php,html,ejs,c#\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=neorival67&layout=compact&hide=php,html,ejs,c#)
 
-
+![daffa's stats](https://github-readme-stats.vercel.app/apiusername=neorival67\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
