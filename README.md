@@ -14,7 +14,7 @@
 
 
 # 📊 GitHub Stats:
-![]([https://github-readme-streak-stats.herokuapp.com/?user=neorival67](https://github-readme-stats.vercel.app/api/top-langs/?username=neorival67&layout=compact&hide=php,html,ejs,c#))<br/>
+![Daffa's Stat](https://github-readme-stats.vercel.app/api/top-langs/?username=neorival67&layout=compact&hide=php,html,ejs,c#)
 
 
 ### ✍️ Random Dev Quote
