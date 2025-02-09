@@ -9,7 +9,7 @@
 
 ## 💻 Tech Stack:
 [![Program](https://skillicons.dev/icons?i=js,java,py,dart,go,cpp,c&perline=7)](https://skillicons.dev)
-[![Cloud Platform](https://skillicons.dev/icons?i=aws,gcp,supabase,dynamodb&perline=4)](https://skillicons.dev)
+[![Cloud Platform](https://skillicons.dev/icons?i=aws,gcp,supabase,dynamodb&perline=7)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
