@@ -16,7 +16,9 @@
 
 [![operating system &scripting](https://skillicons.dev/icons?i=windows,ubuntu,bash,powershell,neovim&perline=5)](https://skillicons.dev)
 
-[![framework](https://skillicons.dev/icons?i=babel,bootstrap,maven,jquery,express,flutter,&perline=8)](https://skillicons.dev)
+[![framework](https://skillicons.dev/icons?i=babel,bootstrap,maven,jquery,express,flutter,react,cmake,flask,gradle&perline=11)](https://skillicons.dev)
+
+[![tools](https://skillicons.dev/icons?i=postman,vscode,wordpress,figma,eclipse,flutter,&perline=8)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
