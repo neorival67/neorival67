@@ -10,8 +10,11 @@
 ## 💻 Tech Stack:
 [![Program](https://skillicons.dev/icons?i=js,java,py,dart,go,cpp,c&perline=7)](https://skillicons.dev)
 
-[![Devops&Cloud](https://skillicons.dev/icons?i=aws,gcp,supabase,dynamodb,docker,bitbucket,git,firebase&perline=7)](https://skillicons.dev)
+[![Devops&Cloud](https://skillicons.dev/icons?i=aws,gcp,supabase,docker,bitbucket,git,firebase,gitlab&perline=9)](https://skillicons.dev)
 
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,dynamodb&perline=7)](https://skillicons.dev)
+
+[![operating system &scripting](https://skillicons.dev/icons?i=windows,ubuntu,bash,powershell&perline=4)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 
