@@ -3,6 +3,14 @@
 # 💫 About Me:
 🌱 I’m currently learning Javascript <br>💬 Ask me anything about Cloud Computing and Back-End Programming<br>⚡ Hobbyist programming, Jogging, Debugging, reading non-fiction books
 
+<details>
+ <summary><strong>What i am Learning / Working</strong></summary>
+    - 🌐 Web Developer (Bootstrap, Jquery, PHP Native) <br>
+    - 📱 Mobile Developer (Flutter) <br>
+    - 🌠 Enterprice Resource Planning (Idempiere)  <br>
+    - 🖥️ DevOps <br>
+    - ☁ Cloud Engineer (AWS, GCP, Firebase, Supabase)
+</details>
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daffarabbani/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/neo_rival67/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@The-Foundation) 
