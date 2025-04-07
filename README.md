@@ -32,9 +32,4 @@
 
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=neorival67&layout=compact&hide=php,html,ejs,c#)
 
-### ✍️ Visit Count
-![viewer](https://komarev.com/ghpvc/?username=neorival67&style=for-the-badge&color=orange)
-
-
-
 ---
