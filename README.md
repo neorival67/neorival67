@@ -5,11 +5,12 @@
 
 <details>
  <summary><strong>What i am Learning / Working</strong></summary>
-    - 🌐 Web Developer (Bootstrap, Jquery, PHP Native) <br>
+    - 🌐 Web Developer (Bootstrap, Jquery, PHP, react) <br>
     - 📱 Mobile Developer (Flutter) <br>
-    - 🌠 Enterprice Resource Planning (Idempiere)  <br>
-    - 🖥️ DevOps <br>
-    - ☁ Cloud Engineer (AWS, GCP, Firebase, Supabase)
+    - 🌠 Enterprice Resource Planning (Idempiere, Odoo)  <br>
+    - 🖥️ DevOps(Jenkins, Docker) <br>
+    - ☁ Cloud Engineer (AWS, GCP, Firebase, Supabase) <br>
+    - 📊 System architecture 
 </details>
 
 ## 🌐 Socials:
